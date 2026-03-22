@@ -1,0 +1,8 @@
+.vscode
+client_secret.json
+google-ads.yaml
+jatan-google-ads.yaml
+config.py
+__pycache__
+*.log
+credentials.json
