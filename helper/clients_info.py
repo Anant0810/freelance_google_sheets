@@ -3,7 +3,7 @@
 lead_clients = [ 'vastu', ] 
                 
 
-fb_coaching_client = ["vastu"]
+fb_coaching_client = ["vastu", "vastu2"]
 
 
 fb_clients = fb_coaching_client # + fb_ecom_client
